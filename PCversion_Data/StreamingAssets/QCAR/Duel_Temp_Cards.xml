@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="card_9" size="150.000000 200.000000" />
+    <ImageTarget name="card_8" size="150.000000 112.500000" />
+    <ImageTarget name="Card_7" size="150.000000 200.000000" />
+    <ImageTarget name="PennApps" size="150.000000 266.666656" />
+    <ImageTarget name="Card_6" size="150.000000 112.500000" />
+    <ImageTarget name="Card_5" size="150.000000 112.500000" />
+    <ImageTarget name="Card_4" size="150.000000 112.500000" />
+    <ImageTarget name="Card_3" size="150.000000 200.000000" />
+    <ImageTarget name="Kuribo" size="150.000000 200.000000" />
+    <ImageTarget name="Blue_Eyes_White_Dragon" size="150.000000 200.000000" />
+  </Tracking>
+</QCARConfig>
